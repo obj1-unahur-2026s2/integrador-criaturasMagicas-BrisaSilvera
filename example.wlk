@@ -99,6 +99,7 @@ class MascotaMitologica {
   method tieneCuernos() = tieneCuernos
 
   method esVeterana() = edad >= 10
+  
 }
 
 class Colonia {
